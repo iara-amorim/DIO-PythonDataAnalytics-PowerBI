@@ -2,7 +2,7 @@
 
 ### Desafio - Criando um Relatório de Vendas Elegante com Power BI
 
-⚠️ Por algum motivo, o Power BI não estava permitindo a instalação de visuais, pórtanto, dois elementos do report de lucros foram substituídos.
+⚠️ Por algum motivo, o Power BI não estava permitindo a instalação de visuais, portanto, dois elementos do report de lucros foram substituídos.
 
 ## Screenshots
 
